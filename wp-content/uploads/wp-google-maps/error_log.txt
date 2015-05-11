@@ -1,0 +1,2 @@
+Error log created
+2015-01-20 11:29:51: Could not save XML file -> Could not save marker XML file (/customers/b/e/6/tjerandsilde.org/httpd.www/wp-content/uploads/wp-google-maps/1markers.xml) for Map ID 1
