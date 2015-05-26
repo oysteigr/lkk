@@ -1,0 +1,2567 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Skoler som skal ha kodetime</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>endafinere.csv</name>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>6B klasse ved Lilleaker skole</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>id</displayName>
+						<value>101.0</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>map_id</displayName>
+						<value>5.0</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>address</displayName>
+						<value>Lilleakerveien 49, 0284 Oslo, Norway</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>pic</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>link</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>icon</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>lat</displayName>
+						<value>59.9238</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>lng</displayName>
+						<value>10.6352</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>anim</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>title</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>infoopen</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>category</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[id: 101
+map_id: 5
+address: Lilleakerveien 49, 0284 Oslo, Norway
+pic: 
+link: 
+icon: 
+lat: 59.9238
+lng: 10.6352
+anim: 
+title: 
+infoopen: 
+category: ]]></description>
+				<Point>
+					<coordinates>10.6352,59.9238,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>2.5 klasse ved Vålerenga skole</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>id</displayName>
+						<value>102.0</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>map_id</displayName>
+						<value>5.0</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>address</displayName>
+						<value>Islands gate 5, 0586 Oslo, Norway</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>pic</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>link</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>icon</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>lat</displayName>
+						<value>59.9386</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>lng</displayName>
+						<value>10.8002</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>anim</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>title</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>infoopen</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>category</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[id: 102
+map_id: 5
+address: Islands gate 5, 0586 Oslo, Norway
+pic: 
+link: 
+icon: 
+lat: 59.9386
+lng: 10.8002
+anim: 
+title: 
+infoopen: 
+category: ]]></description>
+				<Point>
+					<coordinates>10.8002,59.9386,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>7B klasse ved BJøråsen skole</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>id</displayName>
+						<value>103.0</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>map_id</displayName>
+						<value>5.0</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>address</displayName>
+						<value>Sverre Iversens vei 37, 0972 Oslo, Norway</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>pic</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>link</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>icon</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>lat</displayName>
+						<value>59.9704</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>lng</displayName>
+						<value>10.8977</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>anim</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>title</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>infoopen</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>category</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[id: 103
+map_id: 5
+address: Sverre Iversens vei 37, 0972 Oslo, Norway
+pic: 
+link: 
+icon: 
+lat: 59.9704
+lng: 10.8977
+anim: 
+title: 
+infoopen: 
+category: ]]></description>
+				<Point>
+					<coordinates>10.8977,59.9704,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>8a klasse ved Ringstabekk ungdomsskole</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>id</displayName>
+						<value>104.0</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>map_id</displayName>
+						<value>5.0</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>address</displayName>
+						<value>, 1304 Sandvika, Norway</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>pic</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>link</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>icon</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>lat</displayName>
+						<value>59.8894</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>lng</displayName>
+						<value>10.5238</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>anim</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>title</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>infoopen</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>category</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[id: 104
+map_id: 5
+address: , 1304 Sandvika, Norway
+pic: 
+link: 
+icon: 
+lat: 59.8894
+lng: 10.5238
+anim: 
+title: 
+infoopen: 
+category: ]]></description>
+				<Point>
+					<coordinates>10.5238,59.8894,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>6.trinn og 7.trinn klasse ved Jar skole</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>id</displayName>
+						<value>105.0</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>map_id</displayName>
+						<value>5.0</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>address</displayName>
+						<value>Storengveien 2-4, 1358 Jar, Norway</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>pic</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>link</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>icon</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>lat</displayName>
+						<value>59.927442</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>lng</displayName>
+						<value>10.614734</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>anim</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>title</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>infoopen</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>category</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[id: 105
+map_id: 5
+address: Storengveien 2-4, 1358 Jar, Norway
+pic: 
+link: 
+icon: 
+lat: 59.927442
+lng: 10.614734
+anim: 
+title: 
+infoopen: 
+category: ]]></description>
+				<Point>
+					<coordinates>10.614734,59.927442,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>8  klasse ved Hundsund Ungdomsskole</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>id</displayName>
+						<value>106.0</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>map_id</displayName>
+						<value>5.0</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>address</displayName>
+						<value>, 1367 Snarøya, Norway</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>pic</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>link</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>icon</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>lat</displayName>
+						<value>59.880069</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>lng</displayName>
+						<value>10.610706</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>anim</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>title</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>infoopen</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>category</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[id: 106
+map_id: 5
+address: , 1367 Snarøya, Norway
+pic: 
+link: 
+icon: 
+lat: 59.880069
+lng: 10.610706
+anim: 
+title: 
+infoopen: 
+category: ]]></description>
+				<Point>
+					<coordinates>10.610706,59.880069,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>5a klasse ved Greverud skole</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>id</displayName>
+						<value>107.0</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>map_id</displayName>
+						<value>5.0</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>address</displayName>
+						<value>Skiveien 202, 1415 Oppegård, Norway</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>pic</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>link</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>icon</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>lat</displayName>
+						<value>59.7671</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>lng</displayName>
+						<value>10.8111</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>anim</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>title</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>infoopen</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>category</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[id: 107
+map_id: 5
+address: Skiveien 202, 1415 Oppegård, Norway
+pic: 
+link: 
+icon: 
+lat: 59.7671
+lng: 10.8111
+anim: 
+title: 
+infoopen: 
+category: ]]></description>
+				<Point>
+					<coordinates>10.8111,59.7671,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>4.trinn klasse ved Brevik skole</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>id</displayName>
+						<value>108.0</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>map_id</displayName>
+						<value>5.0</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>address</displayName>
+						<value>Falkeveien 24, 1555 Son, Norway</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>pic</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>link</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>icon</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>lat</displayName>
+						<value>59.5237</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>lng</displayName>
+						<value>10.6862</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>anim</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>title</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>infoopen</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>category</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[id: 108
+map_id: 5
+address: Falkeveien 24, 1555 Son, Norway
+pic: 
+link: 
+icon: 
+lat: 59.5237
+lng: 10.6862
+anim: 
+title: 
+infoopen: 
+category: ]]></description>
+				<Point>
+					<coordinates>10.6862,59.5237,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>7. trinn klasse ved Skogmo skole</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>id</displayName>
+						<value>109.0</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>map_id</displayName>
+						<value>5.0</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>address</displayName>
+						<value>Gamle Algarheimsvei 200, 2052 Jessheim, Norway</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>pic</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>link</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>icon</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>lat</displayName>
+						<value>60.1410</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>lng</displayName>
+						<value>11.2094</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>anim</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>title</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>infoopen</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>category</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[id: 109
+map_id: 5
+address: Gamle Algarheimsvei 200, 2052 Jessheim, Norway
+pic: 
+link: 
+icon: 
+lat: 60.1410
+lng: 11.2094
+anim: 
+title: 
+infoopen: 
+category: ]]></description>
+				<Point>
+					<coordinates>11.2094,60.141,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>9B klasse ved Stange ungdomsskole</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>id</displayName>
+						<value>110.0</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>map_id</displayName>
+						<value>5.0</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>address</displayName>
+						<value>Kongsvegen 12, 2335 Stange, Norway</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>pic</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>link</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>icon</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>lat</displayName>
+						<value>60.7180</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>lng</displayName>
+						<value>11.1942</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>anim</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>title</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>infoopen</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>category</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[id: 110
+map_id: 5
+address: Kongsvegen 12, 2335 Stange, Norway
+pic: 
+link: 
+icon: 
+lat: 60.7180
+lng: 11.1942
+anim: 
+title: 
+infoopen: 
+category: ]]></description>
+				<Point>
+					<coordinates>11.1942,60.718,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>4. klasse ved Østvang skole</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>id</displayName>
+						<value>111.0</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>map_id</displayName>
+						<value>5.0</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>address</displayName>
+						<value>Østvangvegen 23, 2340 Løten, Norway</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>pic</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>link</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>icon</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>lat</displayName>
+						<value>60.82774</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>lng</displayName>
+						<value>11.30256</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>anim</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>title</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>infoopen</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>category</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[id: 111
+map_id: 5
+address: Østvangvegen 23, 2340 Løten, Norway
+pic: 
+link: 
+icon: 
+lat: 60.82774
+lng: 11.30256
+anim: 
+title: 
+infoopen: 
+category: ]]></description>
+				<Point>
+					<coordinates>11.30256,60.82774,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>5 trinn  klasse ved Østvang skole</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>id</displayName>
+						<value>112.0</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>map_id</displayName>
+						<value>5.0</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>address</displayName>
+						<value>Østvangvegen 1, 2340 Løten, Norway</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>pic</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>link</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>icon</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>lat</displayName>
+						<value>60.82774</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>lng</displayName>
+						<value>11.30256</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>anim</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>title</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>infoopen</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>category</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[id: 112
+map_id: 5
+address: Østvangvegen 1, 2340 Løten, Norway
+pic: 
+link: 
+icon: 
+lat: 60.82774
+lng: 11.30256
+anim: 
+title: 
+infoopen: 
+category: ]]></description>
+				<Point>
+					<coordinates>11.30256,60.82774,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>5.2 klasse ved Konnerud skole</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>id</displayName>
+						<value>113.0</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>map_id</displayName>
+						<value>5.0</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>address</displayName>
+						<value>Malmveien 19, 3031 Drammen, Norway</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>pic</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>link</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>icon</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>lat</displayName>
+						<value>59.722959</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>lng</displayName>
+						<value>10.130411</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>anim</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>title</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>infoopen</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>category</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[id: 113
+map_id: 5
+address: Malmveien 19, 3031 Drammen, Norway
+pic: 
+link: 
+icon: 
+lat: 59.722959
+lng: 10.130411
+anim: 
+title: 
+infoopen: 
+category: ]]></description>
+				<Point>
+					<coordinates>10.130411,59.722959,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>5.3 klasse ved Konnerud skole</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>id</displayName>
+						<value>114.0</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>map_id</displayName>
+						<value>5.0</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>address</displayName>
+						<value>Malmveien 19, 3031 Drammen, Norway</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>pic</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>link</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>icon</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>lat</displayName>
+						<value>59.722959</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>lng</displayName>
+						<value>10.130411</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>anim</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>title</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>infoopen</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>category</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[id: 114
+map_id: 5
+address: Malmveien 19, 3031 Drammen, Norway
+pic: 
+link: 
+icon: 
+lat: 59.722959
+lng: 10.130411
+anim: 
+title: 
+infoopen: 
+category: ]]></description>
+				<Point>
+					<coordinates>10.130411,59.722959,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>6.2 klasse ved Konnerud skole</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>id</displayName>
+						<value>115.0</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>map_id</displayName>
+						<value>5.0</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>address</displayName>
+						<value>Malmveien 19, 3032 Drammen, Norway</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>pic</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>link</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>icon</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>lat</displayName>
+						<value>59.7098</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>lng</displayName>
+						<value>10.1547</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>anim</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>title</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>infoopen</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>category</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[id: 115
+map_id: 5
+address: Malmveien 19, 3032 Drammen, Norway
+pic: 
+link: 
+icon: 
+lat: 59.7098
+lng: 10.1547
+anim: 
+title: 
+infoopen: 
+category: ]]></description>
+				<Point>
+					<coordinates>10.1547,59.7098,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>6.1 klasse ved Konnerud skole</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>id</displayName>
+						<value>116.0</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>map_id</displayName>
+						<value>5.0</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>address</displayName>
+						<value>Malmveien 19, 3032 Drammen, Norway</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>pic</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>link</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>icon</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>lat</displayName>
+						<value>59.7098</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>lng</displayName>
+						<value>10.1547</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>anim</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>title</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>infoopen</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>category</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[id: 116
+map_id: 5
+address: Malmveien 19, 3032 Drammen, Norway
+pic: 
+link: 
+icon: 
+lat: 59.7098
+lng: 10.1547
+anim: 
+title: 
+infoopen: 
+category: ]]></description>
+				<Point>
+					<coordinates>10.1547,59.7098,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>6.3 klasse ved Konnerud skole</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>id</displayName>
+						<value>117.0</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>map_id</displayName>
+						<value>5.0</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>address</displayName>
+						<value>Malmveien 19, 3032 Drammen, Norway</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>pic</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>link</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>icon</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>lat</displayName>
+						<value>59.7098</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>lng</displayName>
+						<value>10.1547</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>anim</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>title</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>infoopen</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>category</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[id: 117
+map_id: 5
+address: Malmveien 19, 3032 Drammen, Norway
+pic: 
+link: 
+icon: 
+lat: 59.7098
+lng: 10.1547
+anim: 
+title: 
+infoopen: 
+category: ]]></description>
+				<Point>
+					<coordinates>10.1547,59.7098,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>6a og 6b  klasse ved Sande skole</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>id</displayName>
+						<value>118.0</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>map_id</displayName>
+						<value>5.0</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>address</displayName>
+						<value>, 3216 Sandefjord, Norway</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>pic</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>link</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>icon</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>lat</displayName>
+						<value>59.1391</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>lng</displayName>
+						<value>10.2291</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>anim</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>title</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>infoopen</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>category</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[id: 118
+map_id: 5
+address: , 3216 Sandefjord, Norway
+pic: 
+link: 
+icon: 
+lat: 59.1391
+lng: 10.2291
+anim: 
+title: 
+infoopen: 
+category: ]]></description>
+				<Point>
+					<coordinates>10.2291,59.1391,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>4b klasse ved Geilo skole</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>id</displayName>
+						<value>119.0</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>map_id</displayName>
+						<value>5.0</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>address</displayName>
+						<value>, 3580 Geilo, Norway</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>pic</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>link</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>icon</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>lat</displayName>
+						<value>60.5355</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>lng</displayName>
+						<value>8.2081</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>anim</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>title</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>infoopen</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>category</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[id: 119
+map_id: 5
+address: , 3580 Geilo, Norway
+pic: 
+link: 
+icon: 
+lat: 60.5355
+lng: 8.2081
+anim: 
+title: 
+infoopen: 
+category: ]]></description>
+				<Point>
+					<coordinates>8.2081,60.5355,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>5- 6 åringer klasse ved Kattekleiv barnehager as</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>id</displayName>
+						<value>120.0</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>map_id</displayName>
+						<value>5.0</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>address</displayName>
+						<value>, 3671 Notodden, Norway</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>pic</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>link</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>icon</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>lat</displayName>
+						<value>59.56218</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>lng</displayName>
+						<value>9.26332</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>anim</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>title</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>infoopen</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>category</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[id: 120
+map_id: 5
+address: , 3671 Notodden, Norway
+pic: 
+link: 
+icon: 
+lat: 59.56218
+lng: 9.26332
+anim: 
+title: 
+infoopen: 
+category: ]]></description>
+				<Point>
+					<coordinates>9.26332,59.56218,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>5A og 5B klasse ved Brattås skole</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>id</displayName>
+						<value>121.0</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>map_id</displayName>
+						<value>5.0</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>address</displayName>
+						<value>Brattåsvegen 12, 3942 PORSGRUNN, Norway</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>pic</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>link</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>icon</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>lat</displayName>
+						<value>59.0957</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>lng</displayName>
+						<value>9.6798</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>anim</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>title</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>infoopen</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>category</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[id: 121
+map_id: 5
+address: Brattåsvegen 12, 3942 PORSGRUNN, Norway
+pic: 
+link: 
+icon: 
+lat: 59.0957
+lng: 9.6798
+anim: 
+title: 
+infoopen: 
+category: ]]></description>
+				<Point>
+					<coordinates>9.6798,59.0957,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>10A klasse ved Lyngdal ungdomsskole</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>id</displayName>
+						<value>122.0</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>map_id</displayName>
+						<value>5.0</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>address</displayName>
+						<value>Stadionveien 2, 4580 Lyngdal, Norway</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>pic</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>link</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>icon</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>lat</displayName>
+						<value>58.1376</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>lng</displayName>
+						<value>7.0686</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>anim</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>title</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>infoopen</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>category</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[id: 122
+map_id: 5
+address: Stadionveien 2, 4580 Lyngdal, Norway
+pic: 
+link: 
+icon: 
+lat: 58.1376
+lng: 7.0686
+anim: 
+title: 
+infoopen: 
+category: ]]></description>
+				<Point>
+					<coordinates>7.0686,58.1376,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>5 klasse ved Grinde skule</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>id</displayName>
+						<value>123.0</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>map_id</displayName>
+						<value>5.0</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>address</displayName>
+						<value>Skjoldastraumsveien 30, 5570 Aksdal, Norway</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>pic</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>link</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>icon</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>lat</displayName>
+						<value>59.4215</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>lng</displayName>
+						<value>5.4455</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>anim</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>title</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>infoopen</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>category</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[id: 123
+map_id: 5
+address: Skjoldastraumsveien 30, 5570 Aksdal, Norway
+pic: 
+link: 
+icon: 
+lat: 59.4215
+lng: 5.4455
+anim: 
+title: 
+infoopen: 
+category: ]]></description>
+				<Point>
+					<coordinates>5.4455,59.4215,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>4.-7. klasse ved Jostedal skule</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>id</displayName>
+						<value>124.0</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>map_id</displayName>
+						<value>5.0</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>address</displayName>
+						<value>, 6871 Jostedal, Norway</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>pic</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>link</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>icon</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>lat</displayName>
+						<value>61.5951</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>lng</displayName>
+						<value>7.2809</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>anim</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>title</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>infoopen</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>category</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[id: 124
+map_id: 5
+address: , 6871 Jostedal, Norway
+pic: 
+link: 
+icon: 
+lat: 61.5951
+lng: 7.2809
+anim: 
+title: 
+infoopen: 
+category: ]]></description>
+				<Point>
+					<coordinates>7.2809,61.5951,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>4 klasse ved Brundalen skole</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>id</displayName>
+						<value>125.0</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>map_id</displayName>
+						<value>5.0</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>address</displayName>
+						<value>Leistadvegen 3, 7047 Trondheim, Norway</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>pic</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>link</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>icon</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>lat</displayName>
+						<value>63.4193</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>lng</displayName>
+						<value>10.4749</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>anim</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>title</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>infoopen</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>category</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[id: 125
+map_id: 5
+address: Leistadvegen 3, 7047 Trondheim, Norway
+pic: 
+link: 
+icon: 
+lat: 63.4193
+lng: 10.4749
+anim: 
+title: 
+infoopen: 
+category: ]]></description>
+				<Point>
+					<coordinates>10.4749,63.4193,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>SS2I klasse ved Narvik videregående skole</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>id</displayName>
+						<value>126.0</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>map_id</displayName>
+						<value>5.0</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>address</displayName>
+						<value>, 8512 Narvik, Norway</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>pic</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>link</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>icon</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>lat</displayName>
+						<value>68.4384</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>lng</displayName>
+						<value>17.4272</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>anim</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>title</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>infoopen</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>category</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[id: 126
+map_id: 5
+address: , 8512 Narvik, Norway
+pic: 
+link: 
+icon: 
+lat: 68.4384
+lng: 17.4272
+anim: 
+title: 
+infoopen: 
+category: ]]></description>
+				<Point>
+					<coordinates>17.4272,68.4384,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>5C klasse ved Elvebakken skole</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>id</displayName>
+						<value>127.0</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>map_id</displayName>
+						<value>5.0</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>address</displayName>
+						<value>Altagårdsveien 60,  , 9507 Alta, Norway</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>pic</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>link</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>icon</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>lat</displayName>
+						<value>69.9737</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>lng</displayName>
+						<value>23.3614</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>anim</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>title</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>infoopen</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>category</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[id: 127
+map_id: 5
+address: Altagårdsveien 60,  , 9507 Alta, Norway
+pic: 
+link: 
+icon: 
+lat: 69.9737
+lng: 23.3614
+anim: 
+title: 
+infoopen: 
+category: ]]></description>
+				<Point>
+					<coordinates>23.3614,69.9737,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FF8277</styleUrl>
+				<name>3A klasse ved Elvebakken skole</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>id</displayName>
+						<value>128.0</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>map_id</displayName>
+						<value>5.0</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>address</displayName>
+						<value>Altagårdsveien 60, 9515 Alta, Norway</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>pic</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>link</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>icon</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>lat</displayName>
+						<value>69.9775</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>lng</displayName>
+						<value>23.3659</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>anim</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>title</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>infoopen</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>category</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[id: 128
+map_id: 5
+address: Altagårdsveien 60, 9515 Alta, Norway
+pic: 
+link: 
+icon: 
+lat: 69.9775
+lng: 23.3659
+anim: 
+title: 
+infoopen: 
+category: ]]></description>
+				<Point>
+					<coordinates>23.3659,69.9775,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-503-FF8277'>
+			<IconStyle>
+				<color>ff7782FF</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>

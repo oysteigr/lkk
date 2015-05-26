@@ -1,0 +1,44 @@
+mitt bidrag
+brainstorm 
+
+python ble oppfunnet av en tysk man som het Guido Van Rossum og jobbet i Google (fakta til lesson 1)
+
+jeg har en lego nxt mindstorm som er en robot man kan bygge og kontrollere med Python, som dere kan låne
+	innen det kan dere lage en bane på gulvet og få roboten til å huske banen
+lage et program som teller hvor mange ganger hver bokstav er brukt
+lage et røverspråk oversettelses program
+for den litt mer erfarne, sende en epost i Python eller lage en socket som sender meldinger til hverandre
+endre en tekst fil, x = open("tekstfil", "w"), x.write("hva")
+ekstremt bra at dere bruker turtle modulen, den får folk engasjerte og nyserigge
+	har ikke erfaring med turtle men kunne ha brukt time modulen og litt reaksjon på tastatur klikking kan man da lage
+	et snake spill, der du endrer retning på turtle
+lage yatsy spill med random modulen
+har du introdusert dem for lister og tuple objecter?
+bruke astral modulen og pytz og hente soloppgang og nedgang, og rekne ut antall minutt av sollys som er igjen
+	dette har jeg gjort selv, utrekningen kommer en ung elev til å streve med
+hva med å lage en stoppe klokke, som inkluderer milisekund sekund minutt time dag uke måned år lysår
+	sett tiden på 0,001 slik at du kan teste den sikkelig
+	og husk at vis du skal endre flere variabler til forskjellige ting i en funksjon så må du: [var1,var2] = funksjon()
+	og da er var1 lik funksjon()[0] og var2 lik funksjon()[1]
+oppgavene er det ikke noe å prikke på, mye er nytt for meg, spesielt turtle
+hva med å lage et program som har en string input raw_input("inn:") og gjør hele tingen til lower case for sikkerhetsskyld,
+	med string.lower(), ta annen vær bokstav og gjør den til upper case, med for og en runde teller, printe det ut.
+	gjøre inn til list, list(inn), og ta list.reverse() eller list.sort() og printe str(list).
+vis spill entusiasmen til elevene blir veldig høy kan du introdusere dem til pygame
+kan elevene og bruke %s, altså print "jeg er %s år gammel %s"% (15,"gutt")
+liten fun fact vis du importerer os og du skriver os.system("mkdir c:/users/dittbrukernavn/Dekstop/MadeInPython")
+	det du skriver i os.system er en kommando som blir kjørt i terminalen i operativsystemet som i dette tilfellet
+	er programmeringspråket Bash og vinduet cmd.så du kan skrive os.system("start cmd.exe")
+hva med å lage en kalkulator i tkinter eller generell python
+fortell elevene med det å bruke print() i python 3 og print "" i python 2.7 greit å vite vis du støtter på error på print
+hva med å lage en socket, kom på at det ikke er så vanskelig. du kan ha en datamaskin på storskjerm som tar i mot meldingene
+	som elevne sender til den.
+hva med å utdele mandater i Python
+
+
+
+
+
+
+ 
+ 
