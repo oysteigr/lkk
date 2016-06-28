@@ -572,7 +572,7 @@ function print_contact($contact){
 		}
 		echo "<div class='kodeklubb-contact-inner'>";
 			echo "<strong>Navn:  </strong> <span>". $contact['name'] ."</span><br/>";
-			echo "<strong>E-post:  </strong> <a href='mailto:". $contact['email'] ."'>". $contact['email'] ."</a><br/>";
+			echo "<strong>E-post:  </strong> <span>". str_replace("@", "@<span style='display: none'>null</span>", $contact['email']) ."</span><br/>";
 
 			if(!empty($contact['phone'])){
 				echo "<strong>Telefon:  </strong> <span>". $contact['phone'] ."</span><br/>";
